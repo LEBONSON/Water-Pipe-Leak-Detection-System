@@ -1,5 +1,3 @@
-Voici un README professionnel, complet et prêt pour GitHub/GitLab pour votre projet IoT de détection de fuite d’eau avec ESP32 et Blynk.
-
 # 💧 Système Intelligent de Détection de Fuite d’Eau
 
 ## ESP32 • Blynk IoT • Surveillance Temps Réel • Sécurité Automatique
